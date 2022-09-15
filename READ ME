@@ -1,0 +1,3 @@
+Görüntü işlendikten sonra ki merkez noktaya göre konum verisini geliştirme kartına doğrudan gönderen bu kod processing dili ile yazılmıştır.
+Programı çalıştırken 44. satırdaki "opencv.cascade( "C:/Users/osman/Documents/Processing/libraries/opencv/haarcascades/myhaar.xml" );" ifadesini değiştirmeyi unutmayın.
+Aynı zamanda geliştirme kartınızın port ve baundrate ayarlarınıda 47. satırdan düzenleyin.
